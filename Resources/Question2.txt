@@ -1,0 +1,1 @@
+In my design to include this category, I need to create a new class rule with this new property in the CartegoryRules folder and include the rule in the TradeCategory class. With these changes, the category it will be recorgnized and evaluated by the application.
